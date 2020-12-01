@@ -4,7 +4,7 @@
       <h1>WuCong</h1>
       <p><b>undergraduate</b></p>
       <p><b>ZheJiangWanLi university</b></p>
-      <p><b>E-mail：1234567789@qq.com</b></p>
+      <p><b>E-mail：2339152480@qq.com</b></p>
       <p><b>address：ZheJiangWanLi university</b></p>
     </td>
     <td width="25%">
